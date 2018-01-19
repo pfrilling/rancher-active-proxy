@@ -399,5 +399,3 @@ will be used on any virtual host which does not have a `/etc/nginx/vhost.d/{rap.
 Do not hesitate to send issues or pull requests ! 
 
 Automated Gitlab CI is used to build Rancher Active Proxy therefore send any pull request/issues to [Rancher Active Proxy on Gitlab.com](https://gitlab.com/adi90x/rancher-active-proxy/)
-
-
